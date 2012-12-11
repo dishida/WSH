@@ -1,4 +1,4 @@
 Windows Script Host
 ===========
 
-WSH for JScript
+JScript program for WSH
