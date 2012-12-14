@@ -42,6 +42,7 @@ var ie = function() {
             }
         },
         getTag: function(tName) {
+			tName = tName || '*';
             return _doc.getElementsByTagName(tName);
         },
         getName: function(Name) {
